@@ -1,0 +1,196 @@
+nav ul li{ 
+    
+    list-style: none;
+    display: inline;
+    
+    
+}
+ 
+.bor{
+    
+   
+    
+}
+
+#wrap{
+    
+    width: 900px;
+    align-content: center;
+    text-align: center;
+    margin:auto;
+    background: lightgrey; 
+     
+   
+}
+
+.hei{
+    
+    height: 200px;
+
+    
+}
+
+#news{
+
+    float: left;
+    width: 400px;
+    margin-left:1px;
+    height: 300px;
+    overflow: scroll;
+   margin-bottom: 10px;
+    
+   
+    
+}
+
+#cont{ 
+    
+    float: left;
+    width: 400px;
+    margin-left: 90px;
+    height: 300px;
+    overflow: scroll;
+    background: yellow;
+
+}
+
+footer{
+    
+    clear: both;
+    background: grey;
+    
+}
+
+
+a{
+    
+    text-decoration: none;
+ 
+    
+    
+}
+a:hover{ 
+   
+    border: 4px solid #7abebf;
+    border-radius: 20px;
+    
+}
+a:visited{ color:black;}
+
+li{  
+    
+  
+    
+   font-size: 20px;
+    margin-right:60px;
+   margin-left: 60px;
+    color: #045f60;
+    font-family:serif;
+    border-radius: 20px;
+    border: solid #005B6C 5px;
+    background-color: #52ccce;
+    font-weight: bold;
+    
+
+}
+ 
+    
+nav{ 
+    background-color: #005B6C;
+  
+    
+    
+}
+ul{
+    margin: 0;
+}
+
+section { 
+    height: 800px;
+    background: url(../HTML/bwi4vd4vi3w-gianpaolo-la-paglia.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    color: white;
+    font:70px bold; 
+   
+    
+  
+   
+}
+
+h3{ 
+   position:absolute;
+    margin-left: 300px;
+    margin-top: 350px;
+    opacity: 0.7;
+    
+    
+}  
+.news{  
+    
+    
+    text-align:center;
+    margin-bottom: 25px;
+    
+    
+
+}
+img { 
+margin-left: 10px;
+width: 150px;
+height: 150px;
+float: left;
+position: static;
+
+    
+}
+    
+body{
+    
+    background: url(../HTML/7bwqxzbf6ke-kalen-emsley.jpg);
+    background-size: cover;
+    background-blend-mode: overlay;
+   
+    
+}
+
+#ss{ 
+width: 900px;
+height: 20px;
+background: url(../HTML/7bwqxzbf6ke-kalen-emsley.jpg);
+clear: both;
+
+}
+
+form input {
+    margin-top: 2px;
+    margin-bottom: 10px;
+    align-content: space-around;
+    text-decoration: none;
+    
+    
+}
+
+form legend { 
+margin: auto;
+padding-top: 10px;
+font-size: 30px;
+height: 60px;
+width: 350px;
+background: lightyellow;
+    border-radius: 20px;
+margin-bottom: 2px;
+
+
+
+
+}
+#set{ 
+  background: lightblue;
+padding: 15px;
+    border-radius: 20px;
+  
+} 
+
+
+

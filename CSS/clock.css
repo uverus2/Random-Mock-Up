@@ -1,0 +1,12 @@
+#clock {  
+    position:fixed;
+    float: left;
+    font-size: 30px;
+    border: 6px solid white ;
+    border-radius: 50%;
+    background: white;
+    color: black;
+    opacity: 0.8;
+    font-weight: 300;
+
+}
